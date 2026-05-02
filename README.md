@@ -1,2 +1,16 @@
-# live-update-app
-A live update web app built with HTML, CSS, and JavaScript that displays typed input in real time with character counting.
+# Live Update App
+
+A simple live update web app that mirrors typed input in real time and counts characters.
+
+## Features
+- Real-time text preview
+- Dynamic character counter
+- Empty-state placeholder text
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Purpose
+Built to practice DOM manipulation, input events, and dynamic UI updates. 
